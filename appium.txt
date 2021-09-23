@@ -1,0 +1,4 @@
+[caps]
+platformName = "Android"
+deviceName = "Oreo bootcamp"
+app = "/Users/liisa.ambrosen/Bootcamp/Appium/config/app-debug.apk"
